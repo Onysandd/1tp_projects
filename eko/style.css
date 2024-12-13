@@ -1,0 +1,21 @@
+:root {
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.list h2 {
+    text-align: center;
+}
+
+.list {
+    background-color: rgb(171, 206, 171);
+    font-size: 1.05em;
+    width: 75%;
+    border-radius: 10px;
+    box-shadow: 4px 5px 15px;
+}
