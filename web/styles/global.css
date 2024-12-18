@@ -1,0 +1,55 @@
+:root {
+    background-color: #EEEEEE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+.dev {
+    border: 2px dotted darkorchid;
+}
+
+.header {
+    display: flex;
+}
+
+.header-item {
+    height: 100px;
+    width: 50%;
+    padding: 10px 0;
+    background-color: lightblue;
+}
+
+.banner {
+    background-color: #EEEEEE;
+    height: 200px;
+    width: 100%;
+}
+
+.menu .headlink {
+    color: navy;
+    font-size: 150%;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+}
+
+.menu .headlink:hover {
+    border: 1px solid navy;
+}
+
+.main {
+    color: navy;
+    margin: 50px;
+    height: 400px;
+}
+
+.footer {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: right;
+}
